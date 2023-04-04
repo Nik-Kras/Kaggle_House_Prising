@@ -1,0 +1,10 @@
+- python=3.8
+- tensorflow
+- ipykernel
+- pandas
+- scikit-learn
+- seaborn
+- missingno
+- xgboost
+- lightgbm
+- mlxtend
