@@ -8,3 +8,4 @@
 - xgboost
 - lightgbm
 - mlxtend
+- import-ipynb
