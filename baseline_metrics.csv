@@ -3,7 +3,7 @@ Baseline #,"	Total Score","	Description"
 2,"	0.23593","	Numerical and categorical features"
 3,"		", Numerical and categorical features + PCA
 4,"	0.2076","	Only numerical features + Outlier filtration"
-5,"	0.1356",Only numerical features + Model Blending of 8 models (best-practice)
+5,0.13057,Only numerical features + Model Blending of 8 models (best-practice) + Target normalization with log()
 6,"		",
 7,"		",
 8,"		",
