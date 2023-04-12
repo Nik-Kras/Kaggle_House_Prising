@@ -6,6 +6,6 @@ Baseline #,"	Total Score","	Description"
 5,0.13057,Only numerical features + Model Blending of 8 models (best-practice) + Target normalization with log()
 6,0.13057,Only numerical features + Model Blending of 8 models (best-practice) + Target normalization with log() + Features normalisation + Outliers
 7,0.12297,
-8,"		",
+8,0.1217,
 9,"		",
 10,"		",
